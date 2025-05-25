@@ -1,0 +1,26 @@
+id,serial,status,type,reuse_count,water_landings,land_landings
+5e9e2c5bf35918ed873b2664,C101,retired,Dragon 1.0,0,1,0
+5e9e2c5bf3591882af3b2665,C102,retired,Dragon 1.0,0,1,0
+5e9e2c5bf3591835983b2666,C103,unknown,Dragon 1.0,0,1,0
+5e9e2c5bf359189ef23b2667,C104,unknown,Dragon 1.0,0,1,0
+5e9e2c5bf3591859a63b2668,C105,unknown,Dragon 1.1,0,1,0
+5e9e2c5bf3591880643b2669,C106,active,Dragon 1.1,2,3,0
+5e9e2c5bf35918165f3b266a,C107,unknown,Dragon 1.1,0,1,0
+5e9e2c5cf359188bfb3b266b,C108,active,Dragon 1.1,2,3,0
+5e9e2c5cf35918407d3b266c,C109,destroyed,Dragon 1.1,0,1,0
+5e9e2c5cf3591885d43b266d,C110,active,Dragon 1.1,1,2,0
+5e9e2c5cf359183bb73b266e,C111,active,Dragon 1.1,1,2,0
+5e9e2c5cf359185d753b266f,C112,active,Dragon 1.1,2,3,0
+5e9e2c5cf3591869b63b2670,C113,active,Dragon 1.1,1,2,0
+5e9e2c5df35918b1063b2671,C201,retired,Dragon 2.0,0,1,0
+5e9e2c5df359184c9a3b2672,C205,active,Dragon 2.0,0,1,0
+5e9e2c5df3591849f93b2673,C202,retired,Dragon 2.0,0,0,0
+5e9e2c5df359184b793b2674,C203,active,Dragon 2.0,0,0,0
+5e9e2c5df359185f973b2675,C204,destroyed,Dragon 2.0,0,0,0
+5e9e2c5df359188aba3b2676,C206,active,Dragon 2.0,2,2,0
+5f6f99fddcfdf403df379709,C207,active,Dragon 2.0,1,2,0
+5fbb0f8fec55b34eb9f35c14,C208,active,Dragon 2.0,0,2,0
+60b803421f83cc1e59f1644d,C209,active,Dragon 2.0,1,2,0
+617c05591bad2c661a6e2909,C210,active,Dragon 2.0,1,0,0
+62615d120ec008379be596f0,C211,active,Dragon 2.0,0,0,0
+62615d180ec008379be596f1,C212,active,Dragon 2.0,0,0,0

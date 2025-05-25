@@ -1,0 +1,7 @@
+id,name,full_name,locality,region,latitude,longitude,launch_attempts,launch_successes,success_rate
+5e9e4501f5090910d4566f83,VAFB SLC 3W,Vandenberg Space Force Base Space Launch Complex 3W,Vandenberg Space Force Base,California,34.6440904,-120.5931438,0,0,
+5e9e4501f509094ba4566f84,CCSFS SLC 40,Cape Canaveral Space Force Station Space Launch Complex 40,Cape Canaveral,Florida,28.5618571,-80.577366,99,97,0.9797979797979798
+5e9e4502f5090927f8566f85,STLS,SpaceX South Texas Launch Site,Boca Chica Village,Texas,25.9972641,-97.1560845,0,0,
+5e9e4502f5090995de566f86,Kwajalein Atoll,Kwajalein Atoll Omelek Island,Omelek Island,Marshall Islands,9.0477206,167.7431292,5,2,0.4
+5e9e4502f509092b78566f87,VAFB SLC 4E,Vandenberg Space Force Base Space Launch Complex 4E,Vandenberg Space Force Base,California,34.632093,-120.610829,28,27,0.9642857142857143
+5e9e4502f509094188566f88,KSC LC 39A,Kennedy Space Center Historic Launch Complex 39A,Cape Canaveral,Florida,28.6080585,-80.6039558,55,55,1.0

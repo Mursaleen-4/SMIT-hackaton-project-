@@ -1,0 +1,3 @@
+install requirements
+run preprocessing data: python src/preprocessing.py
+run web app: streamlit run app.py
